@@ -13,7 +13,7 @@ class AppleScript {
   AppleScript.results(this.script, this.resultsCallback);
   
   run() {
-    Process.run('osascript', ['-e', 'tell application "Spotify" to playpause']).then((ProcessResult results) {
+    Process.run('osascript', ['-e', script]).then((ProcessResult results) {
         if (resultsCallback != null) {
           resultsCallback(results);
         }
