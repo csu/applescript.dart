@@ -1,0 +1,8 @@
+name: applescript
+version: 0.0.1
+author: Christopher Su <chris+dart@christopher.su>
+description: A library for executing AppleScript in Dart.
+homepage: https://github.com/csu/applescript.dart
+documentation: https://github.com/csu/applescript.dart
+dev_dependencies:
+  unittest: any
