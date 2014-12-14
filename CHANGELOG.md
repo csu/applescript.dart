@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.5
+* Changed repository name and URL.
+
 ## 0.0.4
 * Example with results callback.
 
