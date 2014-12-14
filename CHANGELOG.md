@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.4
+* Example with results callback.
+
 ## 0.0.3
 * Now functional.
 
