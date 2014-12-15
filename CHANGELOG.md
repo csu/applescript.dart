@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.7
+* License.
+
+## 0.0.6
+* Allow for empty AppleScript.
+
 ## 0.0.5
 * Changed repository name and URL.
 
