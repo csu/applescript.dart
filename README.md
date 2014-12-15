@@ -27,4 +27,4 @@ A simple usage example:
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/csu/dart-applescript/issues
+[tracker]: https://github.com/csu/applescript.dart/issues
